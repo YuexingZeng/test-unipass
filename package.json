@@ -14,6 +14,7 @@
     "chain": "pnpm -F @se-2/hardhat run chain",
     "fork": "pnpm -F @se-2/hardhat run fork",
     "deploy": "pnpm -F @se-2/hardhat run deploy",
+    "deployMumbai": "pnpm -F @se-2/hardhat run deployMumbai",
     "verify": "pnpm -F @se-2/hardhat run verify",
     "compile": "pnpm -F @se-2/hardhat run compile",
     "generate": "pnpm -F @se-2/hardhat run generate",
